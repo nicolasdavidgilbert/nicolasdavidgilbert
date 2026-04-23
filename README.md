@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Header Banner" />
   <br/>
   <h1> 🌌 Arquitecto de Sistemas & Desarrollador FullStack </h1>
   
