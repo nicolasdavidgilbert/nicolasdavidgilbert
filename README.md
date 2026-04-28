@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-  <h1> 🌌 Arquitecto de Sistemas & Desarrollador FullStack </h1>
+  <h1> 🌌 Administrador de Sistemas & Desarrollador FullStack </h1>
   
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=NICOLÁS+DAVID+GILBERT;ESTUDIANTE+DE+ASIR;FULLSTACK+DEVELOPER;SYSADMIN+ENTHUSIAST" alt="Typing SVG" />
